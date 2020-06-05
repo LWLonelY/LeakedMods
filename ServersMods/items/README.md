@@ -107,8 +107,8 @@ Makes the Ronin helmet better in numerous ways, such as increasing armor class a
 ### StealtH-PmagVal-1.0.0
 This mod makes the PMAG compatible with the AS VAL so that the gun has a 60 round magazine
 
-### Vengeance-T5000127x108-1.0.0
-Stand alone T-5000 with 12.7X108mm.
+### Senti-BetterT5000127x108-1.0.0
+Converts the T-5000 from 7.62x51 to 12.7x108 (includes locale edits), thanks to Vengeance for the original idea
 
 ### Zarf-AP20Buff-1.0.0
 This mod increases the penetration of the AP-20 12 gauge ammo.
